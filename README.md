@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YaYa-Ntlahla
 - 👀 I’m interested in ...coding ,dogs and reading
-- 🌱 I’m currently learning ...Java
+- I program in Java...
 - 💞️ I’m looking to collaborate on ...anything java related
 - 📫 How to reach me ...
 
